@@ -1,0 +1,7 @@
+my_ecom_project:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      database: ecom_db
+      path: C:\Users\Reden\OneDrive - 3Cloud\Documents\GitHub\oestergaardTest\my_ecom_project\Dataset\ecom_db.db
